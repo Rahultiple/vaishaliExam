@@ -1,7 +1,7 @@
 my:
   greeting: Hellow World
   list: 
-      values: one, two, three
+      values: one, two, three ,four
       
 db:
   connection: connection-string-one
